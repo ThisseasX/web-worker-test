@@ -1,5 +1,5 @@
 // The length of the array used for calculations
-const CALCULATION_ARRAY_LENGTH = 64e6;
+const CALCULATION_ARRAY_LENGTH = 64e5;
 
 /**
  * Wraps a worker communication with a Promise.
